@@ -5,8 +5,8 @@ date:   2015-05-18 14:06:05
 categories: Front-end
 excerpt: sublime中git的使用
 ---
-	sublime可以作为前端开发工具，和git集成后，可以同步代码（博客）到远程服务器。
-主要参考了简书中的这篇文章[sublime中git的使用](http://www.jianshu.com/p/c3fabbeebbeb)
+> sublime可以作为前端开发工具，和git集成后，可以同步代码（博客）到远程服务器。  
+主要参考了简书中的这篇文章[<sublime中git的使用>](http://www.jianshu.com/p/c3fabbeebbeb)
 
 前提要求：
 
