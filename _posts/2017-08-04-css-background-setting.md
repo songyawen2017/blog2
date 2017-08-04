@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "CSS中background的使用"
-date:   2015-05-18 14:06:05
-categories: Front-end
+date:   2017-08-04 14:06:05
+categories: Css  
 excerpt: CSS中background的使用  
 ---  
 #### 背景常用属性及其使用  
